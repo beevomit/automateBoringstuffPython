@@ -1,5 +1,3 @@
-[![License](https://img.shields.io/badge/license-CC0-blue.svg)](https://gitlab.com/lotspaih/automateBoringstuffPython/blob/master/LICENSE)
-
 # automateBoringstuffPython
 Automate the Boring Stuff With Python Practice and Project Repository
 
